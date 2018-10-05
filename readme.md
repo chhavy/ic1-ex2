@@ -1,0 +1,1 @@
+I chose the CompE because I can work on the hardware and the software.
